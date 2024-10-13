@@ -313,3 +313,5 @@ node_modules
 # Helm
 *.tgz
 Chart.lock
+.env
+
