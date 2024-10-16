@@ -1,6 +1,9 @@
+aiohttp
 fastapi
 uvicorn
 sqlalchemy
 pydantic
 python-dotenv
 supabase
+pandas
+streamlit
